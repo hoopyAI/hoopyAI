@@ -19,4 +19,4 @@ AI product builder and indie developer. I build tools at the intersection of **a
 
 TypeScript · Claude Code & Agent SDK · AI APIs (Gemini, Claude) · Swift
 
-🌐 [hoopyai.github.io](https://hoopyai.github.io)
+🌐 [hoopyai.space](https://hoopyai.space)
